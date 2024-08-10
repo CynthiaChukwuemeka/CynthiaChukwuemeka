@@ -6,6 +6,5 @@
 - 😄 Pronouns: she
 - ⚡ Fun fact:i traveling
 
-<!---
-CynthiaChukwuemeka/CynthiaChukwuemeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+you can reach me on {linkedln](https://www.linkedin.com/in/cynthia-chukwuemeka-b37a1522a/)
