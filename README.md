@@ -2,7 +2,7 @@
 ## I’m Cynthia
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning learning Data Analytic:SQL,Tableau,power BI
-- 💞️ I’m looking to collaborate with individuals,organizations,companies, make proper use of their data and provide them with important informations which will enable them to take meaniful decions.
+- 💞️ I’m looking to collaborate in developing and implementing date collection systems,identifying business needs and creating predictive models that improve forecasting accurancy
 - 📫 How to reach me cynthia4gee@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact:i love to creat solution to problems
