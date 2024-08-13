@@ -8,4 +8,4 @@
 - ⚡ Fun fact:i love to creat solution to problems
 
 
-you can reach me {linkedln](https://www.linkedin.com/in/cynthia-chukwuemeka-b37a1522a/)
+REACH ME ON [LINKEDIN](https://www.linkedin.com/in/cynthia-chukwuemeka-b37a1522a/)
